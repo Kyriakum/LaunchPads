@@ -1,0 +1,19 @@
+main: javacle.com.Main
+name: LaunchPads
+author: Javacle
+version: 1.20
+api-version: 1.13
+
+commands:
+    launchpads:
+        aliases: [lpads, lp]
+    lpreload:
+        aliases: [lprl]
+ 
+permissions:
+    launchpads.admin:
+        description: admin use
+    launchpads.usage:
+        description: launchpad usage
+    launchpads.break:
+        description: break launchpads

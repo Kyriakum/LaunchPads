@@ -1,0 +1,9 @@
+#                      LAUNCHPADS+                       #
+#                    MADE BY JAVACLE                     #
+
+
+
+block_material: SLIME_BLOCK
+permission_needed: true
+apply_touching: true
+block_particles: false
